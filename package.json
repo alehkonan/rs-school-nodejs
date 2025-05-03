@@ -1,18 +1,18 @@
 {
   "name": "rs-school-nodejs",
   "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alehkonan/rs-school-nodejs#readme",
+  "license": "ISC",
+  "type": "module",
   "main": "index.js",
-  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alehkonan/rs-school-nodejs.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alehkonan/rs-school-nodejs/issues"
-  },
-  "homepage": "https://github.com/alehkonan/rs-school-nodejs#readme",
-  "description": ""
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.15.3"
+  }
 }
