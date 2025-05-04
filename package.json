@@ -10,8 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/alehkonan/rs-school-nodejs.git"
   },
-  "scripts": {},
-  "dependencies": {},
+  "scripts": {
+    "start": "node file-manager/index.js"
+  },
   "devDependencies": {
     "@types/node": "^22.15.3"
   }
